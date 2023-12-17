@@ -1,16 +1,9 @@
-# class_9
+# Flutter Splash Screen & Shared Preferences
 
-A new Flutter project.
+## A new Flutter project.
 
-## Getting Started
+<P>Yes..! you can check my code.In which I implemented logic of Splash Screen using pure Dart code of mine</P>
+<hr>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Package Used
+<p>I have used Shared preferences package from pub.dev,In which I try to save my login account data also even when application is closed</p>
